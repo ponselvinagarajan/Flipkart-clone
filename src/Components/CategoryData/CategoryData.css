@@ -1,0 +1,17 @@
+.CategoryData {
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 25px;
+  }
+  .category_Img > img {
+    width: 100px;
+  }
+  .category_name {
+    width: 100%;
+    font-size: 13px;
+    font-weight: 500px;
+    padding: 4px 2px;
+    margin-left: 0px;
+  }

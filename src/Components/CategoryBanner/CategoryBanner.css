@@ -1,0 +1,36 @@
+
+.CategoryBanner {
+    padding: 25px 25px;
+    width: fit-content;
+    height: 100%;
+    max-height: 366px;
+    background: white;
+    text-align: center;
+    margin: 20px;
+  }
+  .CategoryBanner-img {
+    width: 200px;
+    height: 170px;
+    cursor: pointer;
+    object-fit: contain;
+  }
+  .CategoryBanner-title {
+    padding: 5px 0;
+    font-size: 15px;
+    color: black;
+    text-decoration: none;
+  }
+  .CategoryBanner-Brands {
+    color: gray;
+    font-size: 14px;
+    font-weight: 300;
+    padding: 5px 0;
+    text-decoration: none;
+  }
+.CategoryBanner-amount{
+    color: black;
+}
+  .CategoryBanner-img:hover {
+    transform: scale(1.1);
+  }
+  
